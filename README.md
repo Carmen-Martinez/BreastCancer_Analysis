@@ -1,7 +1,19 @@
 # Capstone 1 Analysis
-Jupyter Notebook on a Breast Cancer Dataset focusing on Mutation Count and 3 survival outcomes. 
+I have created a Jupyter Notebook usingn the Breast Cancer dataset from kaggle Here I focuse on 'mutation count' its affect on 3 survival outcomes. 
 
-I run a quick EDA to understand the relationships among the variables and the target variable (mutation count)
-I ran a Kruskal-Wallis test and calculated effect size. 
+Ho = There is no difference in mutation count between survival outcome, on average.
+Ha = There is a difference in muatation count between survival outcome, on average. 
 
-Breast Cancer Dataset 
+I visualize my data using univariate and multivariate graphs and descriptive statistics to get a better understanding about the variables and the target variable (mutation count) as well as other exploratory data analysis. For statistical analysis I ran a Kruskal-Wallis test and Mann-Whitney U Test and calculated effect size.
+
+I hope to utilized robust models to get a better picture of the relationship between my target variable and dependent variable. 
+
+Libraries:
+  Pandas
+  Matplotlib
+  Numpy
+  Seaborn
+  SciPy
+  Scikit-Learn post-hoc packages
+  
+Link to dataset: https://www.kaggle.com/gunesevitan/breast-cancer-metabric
