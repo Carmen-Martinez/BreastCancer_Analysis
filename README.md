@@ -10,12 +10,11 @@ I visualize my data using univariate and multivariate graphs and descriptive sta
 I hope to utilize robust models to get a better picture of the relationship between my target variable and dependent variable. 
 
 Libraries:
-
-  Pandas
-  Matplotlib
-  Numpy
-  Seaborn
-  SciPy
+  Pandas, 
+  Matplotlib, 
+  Numpy, 
+  Seaborn, 
+  SciPy, 
   Scikit-Learn post-hoc packages
   
 Link to dataset: https://www.kaggle.com/gunesevitan/breast-cancer-metabric
