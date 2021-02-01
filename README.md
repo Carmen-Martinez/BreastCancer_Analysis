@@ -1,5 +1,5 @@
 # Capstone 1 Background
-I have created a Jupyter Notebook using the Breast Cancer dataset from kaggle. Here I focuse on 'mutation count' and its affect on 3 survival outcomes. 
+I have created a Jupyter Notebook using the Breast Cancer dataset from kaggle. Here I focus on 'mutation count' and its affect on 3 survival outcomes. 
 
 Ho = There is no difference in mutation count between survival outcome, on average.
 
